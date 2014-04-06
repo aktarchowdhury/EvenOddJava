@@ -1,0 +1,14 @@
+package com.aktar.even;
+
+
+public class HomeWorkEvenOdd {
+
+	public static void main(String[] args) {
+	int y;	
+if(y/2==0){
+System.out.println("Even number");	
+}else{
+	System.out.println("Odd number");
+}
+}
+}
