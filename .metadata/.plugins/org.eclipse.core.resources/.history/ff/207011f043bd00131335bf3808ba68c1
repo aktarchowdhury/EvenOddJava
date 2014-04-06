@@ -1,0 +1,12 @@
+package com.aktar.even;
+import java.util.Scanner;
+
+public class EvenOdd2 {
+
+	public static void main(String[] args) {
+	int n;
+	System.out.println("input an integar to have even odd number");
+
+	}
+
+}
